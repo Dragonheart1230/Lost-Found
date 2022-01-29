@@ -46,5 +46,5 @@ Found Synonyms:
 		
     Geoguesser like where you get a set area to explore and have to find hidden items in that area
 	
-    
+    Whenever you get hit you lose a control, eg get it and suddenly melee attack flies off you onto the ground to be picked back up
   
