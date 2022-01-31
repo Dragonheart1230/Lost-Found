@@ -47,4 +47,6 @@ Found Synonyms:
     Geoguesser like where you get a set area to explore and have to find hidden items in that area
 	
     Whenever you get hit you lose a control, eg get it and suddenly melee attack flies off you onto the ground to be picked back up
+    
+    Deep sea diving game, have a boat, sail around in top down 2d, navigate via map w/ orientaring equipment, dive in, game switches to side view 2d, dive down with scuba gear, try to conserve oxy and handle obstacles in cave, get treasure, go home.
   
